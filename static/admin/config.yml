@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: <ORG>/<REPO> # e.g. MyFamilyPublishing/blog
+  repo: msaarna-public/mitchell-portfolio 
   branch: main       # or master, depending on your git default
   
   # THE GLUE: Pointing to your local Go Gateway
